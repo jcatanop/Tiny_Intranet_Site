@@ -1,0 +1,11 @@
+.bg-primary {
+  background: linear-gradient(90deg, #e9e509 0%, #49e600 100%);
+}
+
+body{
+  background-image: url('../../img/web-6704764_1280.jpg'); background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
