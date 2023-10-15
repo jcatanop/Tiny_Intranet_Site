@@ -15,7 +15,7 @@ Clone the repo and setup your local Apache server to point to the local copy.
 
 You will see the default website:
 
-![https://raw.githubusercontent.com/jcatanop/intranet/main/img/Cap                   tura%20desde%202023-10-15%2008-26-15.png]
+![https://raw.githubusercontent.com/jcatanop/intranet/main/img/Captura%20desde%202023-10-15%2008-26-15.png]
 
 ## New Postcard
 
